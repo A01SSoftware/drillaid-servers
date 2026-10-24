@@ -1,0 +1,22 @@
+{
+  "servers": [
+    {
+      "id": "s1",
+      "name": "سرور اصلی",
+      "url": "chat.a01s.ir",
+      "load": 10
+    },
+    {
+      "id": "s2",
+      "name": "سرور Tailscale VPS",
+      "url": "a01sserver.tail32fe4b.ts.net",
+      "load": 20
+    },
+    {
+      "id": "s3",
+      "name": "سرور Tailscale Termux",
+      "url": "tailscale-termux.tail32fe4b.ts.net",
+      "load": 30
+    }
+  ]
+}
