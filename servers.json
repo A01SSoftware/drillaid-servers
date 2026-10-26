@@ -1,6 +1,6 @@
 {
   "servers": [
-    { "id": "primary", "url": "chat.a01s.ir", "priority": 1 },
+    { "id": "primary", "url": "1chat.a01s.ir", "priority": 1 },
     { "id": "backup1", "url": "a01sserver.tail32fe4b.ts.net", "priority": 2 },
     { "id": "backup2", "url": "tailscale-termux.tail32fe4b.ts.net", "priority": 3 }
   ]
